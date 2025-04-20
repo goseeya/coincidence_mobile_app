@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Kompilowane pliki
+dist/
+
+# Env
+.env
+
+# Systemowe śmieci
+.DS_Store
+*.log
