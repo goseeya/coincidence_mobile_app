@@ -1,6 +1,6 @@
 # C🟡INCIDENCE - Transaction App
 
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/a4259291-46e9-454a-aa02-7627b3fe5ac1" />
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/f2068fbb-d233-4a46-9030-32817c796f5c" />
 
 
 Coincidence is a simple mobile application built using React Native with a Node.js + SQLite backend. It simulates a basic banking environment with features like:
@@ -16,7 +16,7 @@ Coincidence is a simple mobile application built using React Native with a Node.
 - SQLite3 provides a file-based database, simple, for local development without big setup.
 - RESTful API architecture ensures a clean separation between frontend and backend responsibilities.
 
-<img width="714" alt="image" src="https://github.com/user-attachments/assets/f0c556bb-43ae-4c9c-8273-33c446b66304" />
+<img width="1005" alt="image" src="https://github.com/user-attachments/assets/1f91c2e0-2f65-402e-bf55-cafb9398fcfe" />
 
 
 
