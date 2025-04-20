@@ -8,6 +8,8 @@ import LoginScreen from "./src/screens/LoginScreen";
 import InternationalTransferScreen from "./src/screens/InternationalTransferScreen";
 import DomesticTransferScreen from "./src/screens/DomesticTransferScreen";
 import OwnAccountTransferScreen from "./src/screens/OwnAccountTransferScreen";
+import { enableScreens } from "react-native-screens";
+enableScreens();
 import { colors } from "./src/theme/colors";
 const Stack = createNativeStackNavigator();
 

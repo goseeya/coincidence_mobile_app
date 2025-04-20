@@ -63,4 +63,5 @@ To start the project, after cloning, you need to run both backend and frontend. 
   - npm install
   - npm start
   - i (to run on Simulator)
+  - w (to run on web)
     The app expects the backend to run at http://localhost:3001.
