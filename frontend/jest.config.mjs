@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   preset: 'react-native',
   transformIgnorePatterns: [
     'node_modules/(?!(react-native|@react-native|react-native-vector-icons|@react-native-dropdown-picker|react-native-dropdown-picker|@testing-library/react-native|@react-navigation)/)',
